@@ -35,6 +35,19 @@ Gold sponsors:
   </tbody>
 </table>
 
+Table of contents:
+
+- About Code It Up
+- Why Docker?
+- Docker Terminology
+- Docker CLI
+- Source Code in Containers
+- Building a Custom Image
+- Publishing to Docker Hub
+- Linking Containers in Networks
+- Managing Containers with Compose
+- Moving to Kubernetes
+
 If you'd like to support me and my projects, please consider:
 
 - [My mentorship program on Patreon](https://www.patreon.com/ivaylokenov)
